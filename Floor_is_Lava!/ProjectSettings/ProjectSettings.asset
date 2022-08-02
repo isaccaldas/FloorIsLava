@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Isac Caldas Games
   productName: Floor_is_Lava!
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
